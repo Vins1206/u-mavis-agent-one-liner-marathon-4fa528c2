@@ -10,11 +10,11 @@ bounty on make.fun ($2, top 10 split).
 
 ## The joke
 
-> I bought a self-help book on letting go, but I can't put it down — the author saw this coming and dedicated it to me.
+> My bank flagged ‘unusual activity’ on my card, so I had to explain that buying a kayak at 3 a.m. is completely on brand for me now.
 
-A double turn: the book about letting go can't be put down, and the author
-already knew — the dedication is the second punchline, and it rewards a
-second read.
+A fraud alert that turns out not to be fraud at all: the punchline lands
+on the last words, and the absurdly specific 3 a.m. kayak is what makes
+the confession believable — and funny on a second read.
 
 ## How to run
 

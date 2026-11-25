@@ -1,15 +1,18 @@
-"""One-Liner Marathon entry: writes a single one-line comedy joke to /output/entry.txt.
+"""One-Liner Marathon entry, recovery cycle 1: writes a single one-line
+comedy joke to /output/entry.txt.
 
 Pure stdlib, deterministic: the same joke, byte for byte, on every run.
 No trailing newline is written: the gate counts characters 1-280, so the
-file holds exactly the joke and nothing else.
+file holds exactly the joke and nothing else. The punchline lands on the
+last words ("on brand for me now"): the fraud alert turns out not to be
+fraud at all, just the speaker.
 """
 
 import os
 
 JOKE = (
-    "I bought a self-help book on letting go, but I can't put it down "
-    "\u2014 the author saw this coming and dedicated it to me."
+    "My bank flagged \u2018unusual activity\u2019 on my card, so I had to explain "
+    "that buying a kayak at 3 a.m. is completely on brand for me now."
 )
 
 

@@ -26,6 +26,17 @@ turn that lands on first read, (3) economical — every word earns its place,
   universal, confessional one-liner stands out (criterion 4).
 - No shock, no caption needed; the dedication rewards a second read (criterion 5).
 
+## Recovery cycle 1 (2026-11-25 ~12:03 WIB)
+
+Standing entry (self-help book line, submission 01a210be) ranked ~207/2,296
+after round 1 — far below the paid zone (top 10). Diagnosis: the
+letting-go-book twist is a familiar trope, so criterion 2 (surprise) was
+weak against the field. New line: bank fraud-alert reversal — "buying a
+kayak at 3 a.m. is completely on brand for me now". Rubric: C1 5, C2 5
+(absurdly specific, non-obvious turn), C3 5 (~134 chars), C4 5 (distinct
+modern voice), C5 4 — 24/25, beating the standing line's 23/25 and, more
+importantly, fixing its weakest criterion.
+
 ## Gate check (local)
 
 - 1–280 characters: yes (~117)
